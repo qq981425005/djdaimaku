@@ -1,2 +1,0 @@
-# djdaimaku
-my
